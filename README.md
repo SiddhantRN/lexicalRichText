@@ -1,0 +1,2 @@
+# lexicalRichText
+Created with CodeSandbox
